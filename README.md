@@ -1,4 +1,4 @@
-# 🚀 Smoke Test Cases for Telegram desktop
+# 🚀 Smoke Test Cases
 - **Project**: Telegram Desktop
 - **Build** : 5.15.4
 - **Tester** : Bialianskaya Viktoryia
